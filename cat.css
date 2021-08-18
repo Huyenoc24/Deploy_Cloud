@@ -1,0 +1,79 @@
+#mes{
+	margin: 0 auto;
+	background-color: white;
+	width: 1200px;
+	
+	font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+	
+	
+}
+#mes .one{
+	float: left;
+	width: 25%;
+}
+
+#mes .one #cat{
+	 
+	 text-align: left;
+	  
+}
+
+#mes .one #dog{
+	color: #C0C0C0;
+	text-align: left;
+	
+}
+#mes .one .first{
+	border: 0px solid #f5f5f5;
+	background-color: #f5f5f5;
+	border-radius: 10px 10px;
+	width: 300px;
+	height: 36px;
+
+}
+#mes .one .second{
+	border: 0px solid #f5f5f5;
+	background-color: #f5f5f5;
+	border-radius: 10px 10px;
+	width: 300px;
+	height: 36px;
+}
+#mes .one .third{
+	border: 1px; 
+	border-style: solid;
+	border-color:#097eff;
+	background-color: #097eff;
+	border-radius: 24px 24px;
+	height: 40px;
+	width: auto;
+	color: white;
+	text-align: center;
+}
+#mes .one .third:hover{
+	border-color: #6699FF;
+	background-color: #6699FF;
+	
+}
+#mes .one .four{
+	color: #C0C0C0;
+	text-align: left;
+	font-size: 14px;
+}
+#mes .one .five{
+	color: gray;
+	display: inherit;
+	text-decoration: none;
+
+}
+#mes .one .five:hover{
+	text-decoration: underline;
+}
+#mes .two{
+	float: left;
+	width: 55%;
+}
+
+
+
+
+
